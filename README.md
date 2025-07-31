@@ -1,5 +1,17 @@
 # Amazon Selenium Automation Framework.
 
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Selenium](https://img.shields.io/badge/Selenium-Framework-brightgreen)
+![TestNG](https://img.shields.io/badge/TestNG-UnitTesting-orange)
+![Maven](https://img.shields.io/badge/Build-Maven-C71A36)
+![ExtentReport](https://img.shields.io/badge/ExtentReport-Integrated-success)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
+![Last Commit](https://img.shields.io/github/last-commit/asoaib121/Amazon-Selenium-Testing-)
+![License](https://img.shields.io/github/license/asoaib121/Amazon-Selenium-Testing-)
+
+---
+
 This project is a complete automation framework designed for testing the Amazon website using **Selenium WebDriver**, **TestNG**, and **ExtentReports** . The framework follows a modular, maintainable, and scalable architecture using **Java + Maven**.
 
 ---
